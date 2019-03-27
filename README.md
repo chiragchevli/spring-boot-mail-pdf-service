@@ -70,28 +70,4 @@
   * https://howtodoinjava.com/apache-commons/read-generate-pdf-java-itext/
   * https://logging.apache.org/log4j/2.x/
   
-   
-   
-  
-    
-  
- 
-    
-  
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-  
-
+**In case you find any problems or you have any suggestion or you want to add new features fell free to contact me** :smile:  
