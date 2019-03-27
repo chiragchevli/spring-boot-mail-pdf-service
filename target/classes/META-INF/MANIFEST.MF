@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mail-pdf-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Chirag Chevli
+Implementation-Vendor-Id: com.mailsender
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mail-pdf-service
+Created-By: Maven Integration for Eclipse
+
