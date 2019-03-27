@@ -1,0 +1,8 @@
+com\mailsender\bean\UserData.class
+com\mailsender\Subscriber.class
+com\mailsender\Publisher.class
+com\mailsender\config\rabbitConfig.class
+com\mailsender\MailPdfServiceApplication.class
+com\mailsender\controller\pafController.class
+com\mailsender\service\GeneratePdfService.class
+com\mailsender\service\SendMailService.class
