@@ -1,7 +1,7 @@
 <div align="center">
   
 # Mail-pdf-service
-#### API that emails PDF with given data developed In Spring Boot 2.1
+#### API to email PDF with given data, developed In Spring Boot 2.1
 
 </div>
 
